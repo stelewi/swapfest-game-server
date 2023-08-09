@@ -1,0 +1,31 @@
+{
+  "name": "swapfest-game-server",
+  "version": "0.0.1",
+  "description": "Swapfest Game Server",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stelewi/swapfest-game-server.git"
+  },
+  "keywords": [
+    "swapfest",
+    "game",
+    "mmo",
+    "server",
+    "https://github.com/stelewi"
+  ],
+  "author": "Steve Lewis",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/stelewi/swapfest-game-server/issues"
+  },
+  "homepage": "https://github.com/stelewi/swapfest-game-server#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "socket.io": "^4.7.2"
+  }
+}
